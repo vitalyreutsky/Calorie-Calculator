@@ -1,0 +1,17 @@
+{
+  "name": "calorie-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://vitalyreutsky.github.io/calorie-calculator/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
